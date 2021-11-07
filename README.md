@@ -15,3 +15,6 @@ $ yarn dlx @yarnpkg/sdks vscode # using yarn2 editor sdk
 
 ##    
 yarn dedupe  로 npm dedupe 과 같은 걸로 라이브러리 충돌 해결 가능 
+
+
+# 우선 yarn1 으로
